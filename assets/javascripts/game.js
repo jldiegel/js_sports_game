@@ -66,6 +66,10 @@ team1shootButton.addEventListener("click", function(){
 
     goal.play()
   }
+
+    else {
+      crowd.play()
+    }
 })
 
 
@@ -82,6 +86,9 @@ team2shootButton.addEventListener("click", function(){
 
     goal.play()
   }
+    else {
+      crowd.play()
+    }
 })
 
 
