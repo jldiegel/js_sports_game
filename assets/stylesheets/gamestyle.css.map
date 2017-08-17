@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAA,IAAM;EACJ,gBAAgB,EAAE,4BAA4B;EAC9C,iBAAiB,EAAE,SAAS;EAC5B,mBAAmB,EAAE,GAAG;EACxB,eAAe,EAAE,KAAK;;AAGxB,EAAI;EACF,KAAK,EAAE,OAAO;EACd,WAAW,EAAE,kBAAkB;;AAGjC,EAAI;EACF,KAAK,EAAE,OAAO;;AAGhB,KAAM;EACJ,KAAK,EAAE,OAAO",
+"sources": ["../scss/gamestyle.scss"],
+"names": [],
+"file": "gamestyle.css"
+}

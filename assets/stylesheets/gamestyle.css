@@ -1,0 +1,17 @@
+body {
+  background-image: url("../images/hockey3.jpg");
+  background-repeat: no-repeat;
+  background-position: 0 0;
+  background-size: cover; }
+
+h1 {
+  color: #0000ff;
+  font-family: 'Monoton', cursive; }
+
+h2 {
+  color: #ff0000; }
+
+.hits {
+  color: #e6f7ff; }
+
+/*# sourceMappingURL=gamestyle.css.map */
